@@ -42,6 +42,44 @@ A Laravel-based store management application for managing products, categories, 
 
 ---
 
+### 🗂️ ClientFlow Manager — Client & Project Management
+
+A personal full-stack project for freelancers to manage clients, projects, tasks, priorities, and deadlines in one workspace. Developed with Replit.
+
+**Key Features:**
+
+- Client, project, and task management
+- Task status, priority, and deadline filters
+- CSV exports
+- Clerk authentication and user-specific records
+- Automated tests and CI with GitHub Actions
+
+**Tech Stack:**  
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Drizzle ORM` `Clerk` `Vitest`
+
+🔗 [View Project](https://github.com/m7mdkh2003/ClientFlow-Manager)
+
+---
+
+### 📊 Book Data Lab — Web Scraping & Data Analysis
+
+A guided Python learning project that collects book data from Books to Scrape, cleans and validates it with Pandas, and exports CSV files, a SQLite database, and summary reports.
+
+**Key Features:**
+
+- Extract book titles, prices, ratings, and availability from multiple pages
+- Validate data and remove duplicate product URLs
+- Filter and sort data using Pandas and SQL
+- Generate grouped summaries and price reports
+- Eight automated tests, verified on Windows and Linux
+
+**Tech Stack:**  
+`Python` `Requests` `BeautifulSoup` `Pandas` `SQLite` `SQL` `unittest`
+
+🔗 [View Project](https://github.com/m7mdkh2003/book-data-lab)
+
+---
+
 ### 🤖 Bilingual Sentiment Analysis
 
 A machine learning project for **Arabic-English sentiment analysis** using TF-IDF and Logistic Regression.
@@ -96,7 +134,13 @@ The project demonstrates multiple Android architecture patterns and integrates l
 `HTML`  
 `CSS`  
 `JavaScript`  
-`Blade`
+`Blade`  
+`React`  
+`TypeScript`  
+`Node.js`  
+`Express`  
+`Drizzle ORM`  
+`Clerk`
 
 ### Mobile Development
 
@@ -113,10 +157,19 @@ The project demonstrates multiple Android architecture patterns and integrates l
 `TF-IDF`  
 `Logistic Regression`
 
+### Web Scraping & Data Analysis
+
+`Python`  
+`Requests`  
+`BeautifulSoup`  
+`Pandas`  
+`SQL`
+
 ### Databases
 
 `MySQL`  
-`SQLite`
+`SQLite`  
+`PostgreSQL`
 
 ### Tools
 
@@ -126,7 +179,9 @@ The project demonstrates multiple Android architecture patterns and integrates l
 `Git LFS`  
 `Postman`  
 `Visual Studio Code`  
-`Android Studio`
+`Android Studio`  
+`Vitest`  
+`unittest`
 
 ---
 
@@ -142,6 +197,7 @@ I'm currently open to:
 - API integrations
 - Android applications
 - Python automation
+- Python data collection and analysis
 - AI / Machine Learning projects
 - Freelance software development
 
